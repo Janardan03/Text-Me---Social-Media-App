@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text Me</string>
+    <string name="menu_signout">Sign Out</string>
+</resources>
